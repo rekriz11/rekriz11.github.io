@@ -1,0 +1,44 @@
+-
+   position: Post Doctoral Fellow
+   employer: Computer and Information Science department, University of Pennsylvania
+   location: Philadelphia, PA
+   start_date: June 2017
+   end_date: present
+   description: Postdoc in the Computer and Information Sciences Department
+-
+   position: Visiting Post Doctoral Fellow
+   employer: Computer and Information Science department, University of Pennsylvania
+   location: Philadelphia, PA
+   start_date: January 2017
+   end_date: May 2017
+   description: Visiting Postdoc in the Computer and Information Sciences Department
+
+
+-
+   position: Research Intern
+   employer: IBM Research, T J Watson 
+   location: Yorktown Heights, NY
+   start_date: June 2015
+   end_date: September 2015
+   description: Applied deep learning technologies to image processing and Question Answering.
+-
+   position: Research Intern
+   employer: IBM Software Group 
+   location: Littleton, MA
+   start_date: May 2014
+   end_date: August 2014
+   description: Worked on Cloud computing
+   
+-
+   position: Research / Teaching Assistant
+   employer: Howard University
+   location: Washington, DC
+   start_date: August 2013
+   end_date: December 2016
+-
+   position: Research Assistant 
+   employer: Extracting Social meaning from Codeswitching in African Languages Group, Howard University
+   location: Washington, DC
+   start_date: August 2013
+   end_date: December 2016
+   description: Designed and built software to improve the quality of machine translation engines. Specifically focused on using statistical techniques to combine the output of multiple engines; pre-processing source texts for MT; helping monolingual users detect language that is problematic for MT.
