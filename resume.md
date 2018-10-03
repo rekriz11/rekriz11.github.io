@@ -35,6 +35,9 @@ active_tab: CV
      <tr>
        <td><b>{{degree.degree}}</b><br /> 
 		{{degree.institution}}, {{degree.location}}
+		{% if degree.award %}<br />
+		{{degree.award}}<br /> 
+		{% endif %}
 		{% if degree.thesis %}<br /> 
 		<i>Thesis:</i>{{degree.thesis}}.<br /> 
 		<i>Advisors:</i>{{degree.advisor}}. 
