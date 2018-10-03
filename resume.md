@@ -1,9 +1,9 @@
 ---
-title: Anietie Andy 
+title: Reno Kriz 
 layout: default
 active_tab: CV
 ---
-<h1>Anietie Andy: CV</h1>
+<h1>Reno Kriz: CV</h1>
 <p class="text-muted">
 (Last updated {{ site.time | date: "%B %d, %Y" }})<br/>
 </p>
