@@ -37,3 +37,135 @@
       year = {2018},
       address = {Melbourne, Australia}
       } 
+
+-
+   title: Name Variation in Community Question Answering Systems
+   authors: Anietie Andy, Satoshi Sekine, Mugizi Rwebangira, Mark Dredze
+   venue: COLING Workshop on Noisy User-generated Text
+   type: workshop
+   award: Best Paper Award
+   year: 2016
+   url: http://anthology.aclweb.org/W/W16/W16-39.pdf#page=63
+   page_count: 10
+   id: name-variation-in-community-question-answering-systems
+   abstract: Community question answering systems are forums where users can ask and answer questions in various categories. Examples are Yahoo! Answers, Quora, and Stack Overflow. A common challenge with such systems is that a significant percentage of asked questions are left unanswered. In this paper, we propose an algorithm to reduce the number of unanswered questions in Yahoo! Answers by reusing the answer to the most similar past resolved question to the unanswered question, from the site. Semantically similar questions could be worded differently, thereby making it difficult to find questions that have shared needs. For example, Who is the best player for the Reds? and Who is currently the biggest star at Manchester United? have a shared need but are worded differently; also, Reds and Manchester United are used to refer to the soccer team Manchester United football club. In this research, we focus on question categories that contain a large number of named entities and entity name variations. We show that in these categories, entity linking can be used to identify relevant past resolved questions with shared needs as a given question by disambiguating named entities and matching these questions based on the disambiguated entities, identified entities, and knowledge base information related to these entities. We evaluated our algorithm on a new dataset constructed from Yahoo! Answers. The dataset contains annotated question pairs, (Qgiven, [Qpast, Answer]). We carried out experiments on several question categories and show that an entity-based approach gives good performance when searching for similar questions in entity rich categories.
+   bibtex: |
+      @article{andy2016name,
+      title={Name Variation in Community Question Answering Systems},
+      author={Andy, Anietie and Sekine, Satoshi and Rwebangira, Mugizi and Dredze, Mark},
+      journal={WNUT 2016},
+      pages={51},
+      year={2016}
+      }
+-
+   title: An Entity-Based approach to Answering Recurrent and Non-Recurrent Questions with Past Answers
+   authors: Anietie Andy, Mugizi Rwebangira, and Satoshi Sekine
+   venue: Open Knowledge Base and Question Answering Workshop (OKBQA2016)
+   type: workshop
+   year: 2016
+   url: http://www.anthology.aclweb.org/W/W16/W16-44.pdf#page=51
+   page_count: 5
+   id: entity-based-qa
+   abstract: Community question answering (CQA) systems such as Yahoo! Answers allow registered-users to ask and answer questions in various question categories. However, a significant percentage of asked questions in Yahoo! Answers are unanswered. In this paper, we propose to reduce this percentage by reusing answers to past resolved questions from the site. Specifically, we propose to satisfy unanswered questions in entity rich categories by searching for and reusing the best answers to past resolved questions with shared needs. For unanswered questions that do not have a past resolved question with a shared need, we propose to use the best answer to a past resolved question with similar needs. Our experiments on a Yahoo! Answers dataset shows that our approach retrieves most of the past resolved questions that have shared or similar needs to unanswered questions.
+   bibtex: |
+      @article{andy2016entity,
+      title={An Entity-Based approach to Answering Recurrent and Non-Recurrent Questions with Past Answers},
+      author={Andy, Anietie and Rwebangira, Mugizi and Sekine, Satoshi},
+      journal={OKBQA 2016},
+      pages={39},
+      year={2016}
+      }
+    
+-
+   title: Exploiting Named Entity Synonyms in Question Answering Systems 
+   authors: Anietie Andy and Mugizi Rwebangira
+   venue: Symposium on Computing at Minority Institutions, ADMI
+   type: Conference
+   year: 2016
+   url: www.admiusa.org/admi2016/Papers_Graduate_Student/ADMI2016_Andy.pdf
+   page_count: 3
+   id: exploiting-named-entity-synonyms-in-question-answering-systems
+   abstract: Community Question answering (CQA) systems have increasingly become popular among internet users. CQA’s such as Yahoo! Answers have a large repository of resolved questions i.e. questions that have been satisfactorily answered. One of the challenges with these systems is that some questions are left unanswered thereby leaving the user unsatisfied. Papers have proposed algorithms to reduce the number of unanswered questions. Some of the proposed algorithms work as follows&colon; (i) direct the unanswered question to CQA users that can potentially answer the question and (ii) use answers to past resolved questions that are similar to the given question. This paper explores an approach that extracts the word synonyms of named entities in a given question and searches the dataset of past resolved questions for similar resolved questions to the given question. The answer to the most similar resolved question is used to satisfy the given question. This paper proposes an algorithm to improve the CQA user experience by using the answer to the most similar past resolved question to satisfy a given question. In cases where the answer to the most similar question cannot satisfy the given question, the proposed algorithm recommends the answer to a related question. Although the answer to the related question will probably not satisfy the given question, it will engage the CQA user and perhaps provide a clue to answer the given question. 
+   bibtex: |
+      @article{andyexploiting,
+      title={Exploiting Named Entity Synonyms in Question Answering Systems},
+      author={Andy, Anietie and Rwebangira, Mugizi}
+      }
+      
+-
+   title: Exploiting Synonyms to improve Question Answering Systems
+   authors: Anietie Andy, Mugizi Rwebangira, and Mohamed Chouikha
+   venue: International Journal of Computer Applications
+   type: Journal
+   year: 2014
+   url: http://research.ijcaonline.org/volume108/number18/pxc3900523.pdf
+   page_count: 4
+   id: exploiting-synonyms-to-improve-question-answering-systems
+   abstract: Community Question and Answering (CQA) systems are a popular way for Internet users to get answers to complex and common everyday questions. One of the challenges with CQA is that some of the asked questions are not answered. This paper addresses this challenge by using a synonym based approach that expands each unanswered question into several related questions. This paper argues that the number of unanswered questions can be reduced by searching the data set for the most similar resolved question(s) (questions that have been satisfactorily answered) to either the unanswered question  or any of its expanded questions. If this search returns more than one resolved question, we rank the returned questions and choose the highest ranking resolved question as the most similar to the unanswered question
+   bibtex: |
+       @article{andy2014exploiting,
+       title={Exploiting Synonyms to Improve Question and Answering Systems},
+       author={Andy, Anietie and Robert, Mugizi and Chouikha, Mohamed},
+       journal={International Journal of Computer Applications},
+       volume={108},
+       number={18},
+       year={2014},
+       publisher={Foundation of Computer Science}
+       }
+       
+-
+   title: A computer model of the annihilation of the electric field in an electromagnetic wave by the elastic stress field of a rotated grain
+   authors: Andy, A.U. | Abayomi, A.T. | Kennefick, C.M.
+   venue: International Journal of Applied Electromagnetics and Mechanics
+   type: Journal
+   year: 2010
+   url: http://content.iospress.com/articles/international-journal-of-applied-electromagnetics-and-mechanics/jae01072
+   id: a-computer-model.pdf
+   abstract: Implicative verbs (e.g. manage) entail their compliment clauses, while non-implicative verbs (e.g. want) do not. For example, while managing to solve the problem entails solving the problem, no such inference follows from wanting to solve the problem. Differentiating between implicative and non-implicative verbs is therefore an essential component of natural language understanding, relevant to applications such as textual entailment and summarization. We present a simple method for predicting implicativeness which exploits known constraints on the tense of implicative verbs and their compliments. We show that this yields an effective, data-driven way of capturing this nuanced property in verbs.
+   bibtex: |
+      @article{andy2010computer,
+      title={A computer model of the annihilation of the electric field in an electromagnetic wave by the elastic stress field of a rotated grain},
+      author={Andy, AU and Abayomi, AT and Kennefick, CM},
+      journal={International Journal of Applied Electromagnetics and Mechanics},
+      volume={32},
+      number={3},
+      pages={133--143},
+      year={2010},
+      publisher={IOS Press}
+      }
+-
+   title: A graph algorithm for extracting features from transcription factor binding sites
+   authors: Chunmei Liu, Junfeng Qu, Yinglei Song,  and Anietie Andy
+   venue: IEEE Workshop on Bioinformatics and Biomedicine, 2009. BIBMW 2009
+   type: Workshop
+   year: 2009
+   url: http://ieeexplore.ieee.org/document/5332139/#full-text-section
+   id: a-graph-algorithm
+   abstract: Transcription factors play important roles in gene regulation. An accurate model that can describe the binding site of a transcription factor in the promoter region of a gene is thus the key for understanding the regulation of the gene. In this paper, we develop a new graph theoretical approach that can efficiently extract features from the binding sites of a transcription factor. These features contain the dependencies among different positions in the binding site and thus can provide a more accurate description of binding sites than models based on the conventional position specific scoring matrix (PSSM). Based on these features, statistical models can be constructed to describe the binding sites of a transcriptional factor. Our testing results showed that models constructed with our approach can find important features for binding sites and achieve significantly improved accuracy for predicting the locations of binding sites in DNA genomes.
+   bibtex: |
+      @inproceedings{liu2009graph,
+      title={A graph algorithm for extracting features from transcription factor binding sites},
+      author={Liu, Chunmei and Qu, Junfeng and Song, Yinglei and Andy, Anietie U},
+      booktitle={Bioinformatics and Biomedicine Workshop, 2009. BIBMW 2009. IEEE International Conference on},
+      pages={68--72},
+      year={2009},
+      organization={IEEE}
+      }      
+-
+   title: Constructing an alias list for named entities during an event
+   authors: Anietie Andy, Mark Dredze, Mugizi Rwebangira, and Chris Callison-Burch
+   venue: EMNLP Workshop on Noisy User-generated Text
+   type: Workshop
+   year: 2017
+   url: http://www.aclweb.org/anthology/W17-4405
+   id: constructiong-an-alisalist
+   abstract: In certain fields, real-time knowledge from events can help in making informed decisions. In order to extract pertinent realtime knowledge related to an event, it is important to identify the named entities and their corresponding aliases related to the event. The problem of identifying aliases of named entities that spike has remained unexplored. In this paper, we introduce an algorithm, EntitySpike, that identifies entities that spike in popularity in tweets from a given time period, and constructs an alias list for these spiked entities. EntitySpike uses a temporal heuristic to identify named entities with similar context that occur in the same time period (within minutes) during an event. Each entity is encoded as a vector using this temporal heuristic.We show how these entityvectors can be used to create a named entity alias list. We evaluated our algorithm on a dataset of temporally ordered tweets from a single event, the 2013 Grammy Awards show. We carried out various experiments on tweets that were published in the same time period and show that our algorithm identifies most entity name aliases and outperforms a competitive baseline.
+   bibtex: |
+      @inproceedings{andy2017constructing,
+      title={Constructing an Alias List for Named Entities during an Event},
+      author={Andy, Anietie and Dredze, Mark and Rwebangira, Mugizi and Callison-Burch, Chris},
+      booktitle={Proceedings of the 3rd Workshop on Noisy User-generated Text},
+      pages={40--44},
+      year={2017}
+      }
+   
