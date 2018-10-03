@@ -1,8 +1,8 @@
 ---
 title: Reno Kriz
 layout: default
-img: Anietie-Andy-headshot
-img_link: assets/img/Anietie-Andy-headshot.jpg
+img: Reno-Kriz-headshot
+img_link: assets/img/Reno-Kriz-headshot.jpg
 caption:  |
  <b>Office:</b> 3401 Walnut St 462C <br />
  <b>Email:</b> rekriz (at) seas (dot) upenn (dot) edu <br />
