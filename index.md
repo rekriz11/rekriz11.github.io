@@ -1,5 +1,5 @@
 ---
-title: Anietie Andy
+title: Reno Kriz
 layout: default
 img: Anietie-Andy-headshot
 img_link: assets/img/Anietie-Andy-headshot.jpg
