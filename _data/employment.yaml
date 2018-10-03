@@ -1,4 +1,37 @@
 -
+   position: Research Intern
+   employer: Amazon.com
+   location: Seattle, WA, USA
+   start_date: May 2018
+   end_date: August 2018
+   description: Applied a state-of-the-art sequence-to-sequence model to the task of keyword generation; created  additional methods for diversifying the resulting output, and clustering keywords into themes.
+
+-
+   position: Computer Science Teaching Assistant
+   employer: University of Pennsylvania
+   location: Philadelphia, PA, USA
+   start_date: September 2017
+   end_date: May 2018
+   description: Held office hours, and graded homeworks and final projects for CIS 519 (Applied Machine Learning) and CIS 530 (Computational Linguistics); also gave lectures on Logistic Regression, Support Vector Machines, and Sequence-to-Sequence models.
+
+-
+   position: Research Intern
+   employer: Choosito, Inc.
+   location: Philadelphia, PA, USA
+   start_date: May 2017
+   end_date: September 2017
+   description: Created a tool to identify complex words, extract potential synonyms from several paraphrase databases, including SimplePPDB, and rank the synonyms based on the context around each word.
+
+-
+   position: Mathematics Teaching Assistant
+   employer: Vassar College
+   location: Poughkeepsie, NY, USA
+   start_date: September 2015
+   end_date: May 2016
+   description: Held office hours and graded homeworks for MATH 321 (Real Analysis) and MATH 361 (Modern Algebra).
+
+
+-
    position: Post Doctoral Fellow
    employer: Computer and Information Science department, University of Pennsylvania
    location: Philadelphia, PA
