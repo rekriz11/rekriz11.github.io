@@ -1,4 +1,23 @@
 -
+   title: Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification
+   authors: Reno Kriz, Jo\~ao Sedoc, Marianna Apidianaki, Carolina Zheng, Gaurav Kumar, Eleni Miltsakaki, and Chris Callison-Burch
+   venue: The 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)
+   type: Conference
+   year: 2019
+   url: https://arxiv.org/pdf/1904.02767.pdf
+   page_count: 11
+   id: sentence-simplification
+   abstract: Sentence simplification is the task of rewriting texts so they are easier to understand. Recent research has applied sequence-to-sequence (Seq2Seq) models to this task, focusing largely on training-time improvements via reinforcement learning and memory augmentation. One of the main problems with applying generic Seq2Seq models for simplification is that these models tend to copy directly from the original sentence, resulting in outputs that are relatively long and complex. We aim to alleviate this issue through the use of two main techniques. First, we incorporate content word complexities, as predicted with a leveled word complexity model, into our loss function during training. Second, we generate a large set of diverse candidate simplifications at test time, and rerank these to promote fluency, adequacy, and simplicity. Here, we measure simplicity through a novel sentence complexity model. These extensions allow our models to perform competitively with state-of-the-art systems while generating simpler sentences. We report standard automatic and human evaluation metrics.
+   bibtex: |
+      @inproceedings{kriz2019complexity,
+      title={Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification},
+      author={Reno Kriz and Jo{\~a}o Sedoc and Marianna Apidianaki and Carolina Zheng and Gaurav Kumar and Eleni Miltsakaki and Chris Callison-Burch},
+      journal={Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)},
+      year={2019},
+      address={Minneapolis, Minnesota}
+}
+
+-
    title: Simplification Using Paraphrases and Context-based Lexical Substitution
    authors: Reno Kriz, Eleni Miltsakaki, Marianna Apidianaki, and Chris Callison-Burch
    venue: The 2018 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)
