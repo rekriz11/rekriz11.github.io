@@ -1,6 +1,6 @@
 -
    title: Comparison of Diverse Decoding Methods from Conditional Language Models
-   authors: Daphne Ippolito*, Reno Kriz*, Joao Sedoc, Maria Kustikova, Chris Callison-Burch
+   authors: Daphne Ippolito*, <b>Reno Kriz</b>*, Joao Sedoc, Maria Kustikova, Chris Callison-Burch
    venue: The 2019 Conference of the Association for Computational Linguistics (ACL 2019)
    type: Conference
    year: 2019
@@ -20,7 +20,7 @@
 
 -
    title: Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification
-   authors: Reno Kriz, Joao Sedoc, Marianna Apidianaki, Carolina Zheng, Gaurav Kumar, Eleni Miltsakaki, and Chris Callison-Burch
+   authors: <b>Reno Kriz</b>, Joao Sedoc, Marianna Apidianaki, Carolina Zheng, Gaurav Kumar, Eleni Miltsakaki, and Chris Callison-Burch
    venue: The 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)
    type: Conference
    year: 2019
@@ -40,7 +40,7 @@
 
 -
    title: Simplification Using Paraphrases and Context-based Lexical Substitution
-   authors: Reno Kriz, Eleni Miltsakaki, Marianna Apidianaki, and Chris Callison-Burch
+   authors: <b>Reno Kriz</b>, Eleni Miltsakaki, Marianna Apidianaki, and Chris Callison-Burch
    venue: The 2018 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)
    type: Conference
    year: 2018
@@ -60,7 +60,7 @@
 
 -
    title: Learning Translations via Images with a Massively Multilingual Image Dataset
-   authors: John Hewitt, Daphne Ippolito, Brendan Callahan, Reno Kriz, Derry Wijaya and Chris Callison-Burch
+   authors: John Hewitt, Daphne Ippolito, Brendan Callahan, <b>Reno Kriz</b>, Derry Wijaya and Chris Callison-Burch
    venue: The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
    type: Conference
    year: 2018
