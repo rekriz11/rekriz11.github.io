@@ -2,9 +2,17 @@
    position: Research Intern
    employer: Amazon.com
    location: Seattle, WA, USA
+   start_date: May 2019
+   end_date: August 2019
+   description: Created a novel synthethic dataset dialogue state tracking on code-switched data; also considered how standard multilingual methods perform on data containing various degrees of code-switching.
+
+-
+   position: Research Intern
+   employer: Amazon.com
+   location: Seattle, WA, USA
    start_date: May 2018
    end_date: August 2018
-   description: Applied a state-of-the-art sequence-to-sequence model to the task of keyword generation; created  additional methods for diversifying the resulting output, and clustering keywords into themes.
+   description: Applied a state-of-the-art transformer model to the task of keyword generation; created  additional methods for diversifying the resulting output, and clustering keywords into themes.
 
 -
    position: Teaching Assistant (Computer Science)
