@@ -1,6 +1,6 @@
 -
    title: Comparison of Diverse Decoding Methods from Conditional Language Models
-   authors: Daphne Ippolito*, <b>Reno Kriz</b>*, Joao Sedoc, Maria Kustikova, Chris Callison-Burch
+   authors: Daphne Ippolito*, <b>Reno Kriz</b>*, Jo&atilde;o Sedoc, Maria Kustikova, Chris Callison-Burch
    venue: The 2019 Conference of the Association for Computational Linguistics (ACL 2019)
    type: Conference
    year: 2019
@@ -20,7 +20,7 @@
 
 -
    title: Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification
-   authors: <b>Reno Kriz</b>, Joao Sedoc, Marianna Apidianaki, Carolina Zheng, Gaurav Kumar, Eleni Miltsakaki, and Chris Callison-Burch
+   authors: <b>Reno Kriz</b>, Jo&atilde;o Sedoc, Marianna Apidianaki, Carolina Zheng, Gaurav Kumar, Eleni Miltsakaki, and Chris Callison-Burch
    venue: The 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)
    type: Conference
    year: 2019
